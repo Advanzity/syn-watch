@@ -1,7 +1,7 @@
 
 # Synapse update notifier
 
-A synapse update notifier automatically notifies you of a synapse update
+A synapse update notifier automatically notifies you of a synapse update using discord webhooks
 
 ## Authors
 
