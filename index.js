@@ -24,3 +24,5 @@ function syn_watch() {
         }
     }, 30000);
 }
+
+syn_watch()
